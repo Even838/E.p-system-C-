@@ -1,0 +1,12 @@
+comendos e.p system C++ 
+
+lit
+mostra uma lista de apps
+
+dete
+mostra a data atual
+
+cal
+inicia a calculadora 
+
+beta 0.0.1
